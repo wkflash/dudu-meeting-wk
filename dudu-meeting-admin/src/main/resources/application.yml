@@ -1,0 +1,11 @@
+#server com.wk.config info
+server:
+  port: 8443
+
+#rename
+spring:
+  application:
+    name: dudu-meeting-admin
+
+logging:
+  config: classpath:logback-spring.xml

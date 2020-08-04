@@ -1,0 +1,8 @@
+#server com.wk.config info
+server:
+  port: 8080
+
+#rename
+spring:
+  application:
+    name: dudu-meeting-weixin

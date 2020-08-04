@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21f6f173-3a1e-4ae1-9e2e-6ebe6ac05c3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Development Tools\Repositories" />
+        <option name="mavenHome" value="D:/Development Tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Development Tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fd5o9HFvEFj2RQlZYIjJeAmyCA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkSpace\dudu-meeting-wk\dudu-meeting-wk\dudu-meeting-weixin\src\main\java\com\wk" />
+      <recent name="D:\JavaWorkSpace\dudu-meeting-wk\dudu-meeting-wk\dudu-meeting-admin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DuduMeetingWeixinApplication">
+    <configuration name="DuduMeetingAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dudu-meeting-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wk.DuduMeetingAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuduMeetingWeixinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dudu-meeting-weixin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wk.DuduMeetingWeixinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5350" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f6f173-3a1e-4ae1-9e2e-6ebe6ac05c3a" name="Default Changelist" comment="" />
+      <created>1596535300265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596535300265</updated>
+      <workItem from="1596535303022" duration="8468000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020年8月4日20:35:58&#10;王坤&#10;第一次提交">
+      <created>1596544653070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596544653070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020年8月4日20:35:58&#10;王坤&#10;第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年8月4日20:35:58&#10;王坤&#10;第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="160" y="0" key="CommitChangelistDialog2" timestamp="1596544647862">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="160" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1596544647862" />
+    <state x="478" y="38" key="FileChooserDialogImpl" timestamp="1596542897910">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="478" y="38" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596542897910" />
+    <state width="1481" height="200" key="GridCell.Tab.0.bottom" timestamp="1596545350840">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596545350840" />
+    <state width="1481" height="200" key="GridCell.Tab.0.center" timestamp="1596545350839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596545350839" />
+    <state width="1481" height="200" key="GridCell.Tab.0.left" timestamp="1596545350839">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596545350839" />
+    <state width="1481" height="200" key="GridCell.Tab.0.right" timestamp="1596545350840">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596545350840" />
+    <state width="1481" height="200" key="GridCell.Tab.1.bottom" timestamp="1596544495123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596544495123" />
+    <state width="1481" height="200" key="GridCell.Tab.1.center" timestamp="1596544495123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1596544495123" />
+    <state width="1481" height="200" key="GridCell.Tab.1.left" timestamp="1596544495123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1596544495123" />
+    <state width="1481" height="200" key="GridCell.Tab.1.right" timestamp="1596544495123">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="200" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1596544495123" />
+    <state x="347" y="48" key="NewModule_or_Project.wizard" timestamp="1596535457668">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="347" y="48" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1596535457668" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1596535459872">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1596535459872" />
+    <state x="261" y="86" key="Vcs.Push.Dialog.v2" timestamp="1596545497002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="86" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596545497002" />
+    <state x="417" y="164" key="git4idea.merge.GitPullDialog" timestamp="1596545233513">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="417" y="164" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1596545233513" />
+    <state x="507" y="254" width="582" height="325" key="git4idea.rebase.GitRebaseDialog" timestamp="1596544952076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="507" y="254" width="582" height="325" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1596544952075" />
+  </component>
+</project>
